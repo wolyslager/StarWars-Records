@@ -1,0 +1,9 @@
+.table-container{
+	width: 70%;
+}
+
+th{
+	border: 1px solid black;
+	padding: 0.5rem;
+	text-align: center;
+}
