@@ -1,5 +1,4 @@
-import React from 'react'
-import './PageNumbers.css'
+import React from 'react' 
 
 function PageNumbers(props){
 	return(
